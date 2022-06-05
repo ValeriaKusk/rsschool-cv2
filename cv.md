@@ -35,7 +35,7 @@ not yet
 
 English - Upper-intermediate (according to the online test in the EFset logo www.efset.org )
 
-![EF][(/img/EF.png"EF")](https://www.efset.org/quick-check/take-test/#set15-190/result)
+![EF](EF.jpg)
 
 Russian - native
 
