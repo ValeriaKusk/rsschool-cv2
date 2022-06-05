@@ -33,11 +33,12 @@ not yet
 
 ## Languages
 
+Russian - native
+
 English - Upper-intermediate (according to the online test in the EFset logo www.efset.org )
 
-![EF](EF.jpg)
+![EF](https://user-images.githubusercontent.com/106627549/172049147-f4c59195-026d-43eb-83f8-3c5282a576d1.png)
 
-Russian - native
 
 
 
