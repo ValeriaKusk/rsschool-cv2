@@ -37,5 +37,7 @@ English - Upper-intermediate (according to the online test in the EFset logo www
 
 ![EF](/img/EF.png"EF")
 
+Russian - native
+
 
 
